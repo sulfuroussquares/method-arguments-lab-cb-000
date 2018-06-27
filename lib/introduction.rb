@@ -1,3 +1,3 @@
 def introduction_with_language(name, phrase)
-  puts phrase + name
+  puts "Hi, my name is {name} and I am learning to program in {phrase}.\n"
 end
